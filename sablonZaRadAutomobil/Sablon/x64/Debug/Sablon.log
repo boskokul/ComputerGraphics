@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\Bogdan\Downloads\RG Trougao Sablon (1)\Sablon\Car.h(9,46): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Bogdan\Downloads\RG Trougao Sablon (1)\Sablon\Car.h(10,95): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Bogdan\Downloads\RG Trougao Sablon (1)\Sablon\Car.h(11,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Sablon.vcxproj -> C:\Users\Bogdan\Downloads\RG Trougao Sablon (1)\Sablon\x64\Debug\Sablon.exe

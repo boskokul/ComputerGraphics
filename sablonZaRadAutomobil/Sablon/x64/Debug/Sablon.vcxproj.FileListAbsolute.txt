@@ -1,2 +1,4 @@
 C:\Users\Bogdan\Downloads\RG Trougao Sablon (1)\Sablon\x64\Debug\glew32.dll
 C:\Users\Bogdan\Downloads\RG Trougao Sablon (1)\Sablon\x64\Debug\Sablon.exe
+C:\Users\bosko\Desktop\RG\ComputerGraphics\sablonZaRadAutomobil\Sablon\x64\Debug\glew32.dll
+C:\Users\bosko\Desktop\RG\ComputerGraphics\sablonZaRadAutomobil\Sablon\x64\Debug\Sablon.exe

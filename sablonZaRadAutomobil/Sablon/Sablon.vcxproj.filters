@@ -36,6 +36,9 @@
     <None Include="basic.vert">
       <Filter>Source Files\Shader Files</Filter>
     </None>
+    <None Include="batLogo.vert">
+      <Filter>Source Files\Shader Files</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="TestBed.h">
@@ -44,5 +47,16 @@
     <ClInclude Include="car.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\k1\kraj\ComputerGraphics\Sablon\res\background.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\k1\kraj\ComputerGraphics\Sablon\res\obrtaji1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\k1\kraj\ComputerGraphics\Sablon\res\potpis.png">
+      <Filter>Resource Files</Filter>
+    </Image>
   </ItemGroup>
 </Project>
